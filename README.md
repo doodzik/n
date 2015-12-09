@@ -1,6 +1,15 @@
 # n
 a collection of scripts that makes my life easier working with node projects
 
+# installation
+
+```bash
+$ brew tap doodzik/tap
+$ brew install npm-scripts
+```
+
+# API
+
 #### n
 npm
 
