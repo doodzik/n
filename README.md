@@ -8,10 +8,10 @@ $ brew tap doodzik/tap
 $ brew install npm-scripts
 
 # add this to your bash/zsh rc file
-source n.sh
+. n.sh
 # or if you dont want nvm to slow down your machine
 # run this when you need it
-ninit
+. ninit
 ```
 
 #### n
